@@ -1,0 +1,6 @@
+{
+  "env": {
+    // eslint 预设了 mocha 的全局变量，所以设置为 true 就可以了
+    "mocha": true
+  }
+}
