@@ -1,4 +1,4 @@
-# @daydaybigking/my-first-cli
+# @zhaohui18755177994/cli
 
 学习如何从零开始搭建一个工程样板。
 
